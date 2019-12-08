@@ -1,15 +1,17 @@
-Project 1
+# Project 2
 
-My task is to create a responsible website using only HTML5 and CSS3.
-Installation
+My task is to create JS game using only HTML5, CSS3 and JS.
+
+## Installation
 
 There is no need for installation, you can simply start index.html from the folder
-Usage
+
+## Usage
 
 It is only for student usage
-Autor
 
+## Autor
 GoranPopovic77
-License
 
+## License
 GoranPopovic77 & ZeForge Academy
